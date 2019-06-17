@@ -2,7 +2,7 @@
 #cd script
  
  
-Usage£ºbenchmark [OPTION]... [PARM]...
+UsageÂ£Âºbenchmark [OPTION]... [PARM]...
 Test the extreme performance of multi-threaded CPUs. Provide multiple modes: bind (not bind) Socket, bind (not bind) Core, bind (not bind) hyperthread; you can set parameters such as test time, delay, number of threads.
 
 
@@ -20,6 +20,6 @@ The following is a detailed description of the OPTION and PARM for this test pro
 
 -d		Lock_delay 		The value of PARM is a positive integer in seconds, which is the time delay for the test program to execute.
 
--f		config_file 	The value of config_file PARM is NULL. It is a configuration file that provides users with custom tests. Executing this OPTION will open the self-configuration file...
+-f		float mode 	provide a mode to not set the binding-process, core or socket.
 
 -h		help		Open the help document

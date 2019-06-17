@@ -1,0 +1,663 @@
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+sudo: /root/HHworkspace/micro-benchmark/tools/powerManagement.sh: command not found
+../micro-benchmark/tools/powerManagement.sh: line 3: ./common_check.inc: No such file or directory
+../micro-benchmark/tools/powerManagement.sh: line 51: rdmsr: command not found
+../micro-benchmark/tools/powerManagement.sh: line 114: function_check: command not found
+../micro-benchmark/tools/powerManagement.sh: line 115: function_reset: command not found
+../micro-benchmark/tools/powerManagement.sh: line 121: disable_C1E_C3_C6: command not found
+Setting cpu: 0
+Setting cpu: 1
+Setting cpu: 2
+Setting cpu: 3
+Setting cpu: 4
+Setting cpu: 5
+Setting cpu: 6
+Setting cpu: 7
+Setting cpu: 8
+Setting cpu: 9
+Setting cpu: 10
+Setting cpu: 11
+Setting cpu: 12
+Setting cpu: 13
+Setting cpu: 14
+Setting cpu: 15
+Setting cpu: 16
+Setting cpu: 17
+Setting cpu: 18
+Setting cpu: 19
+Setting cpu: 20
+Setting cpu: 21
+Setting cpu: 22
+Setting cpu: 23
+Setting cpu: 24
+Setting cpu: 25
+Setting cpu: 26
+Setting cpu: 27
+Setting cpu: 28
+Setting cpu: 29
+Setting cpu: 30
+Setting cpu: 31
+Setting cpu: 32
+Setting cpu: 33
+Setting cpu: 34
+Setting cpu: 35
+Setting cpu: 36
+Setting cpu: 37
+Setting cpu: 38
+Setting cpu: 39
+Setting cpu: 40
+Setting cpu: 41
+Setting cpu: 42
+Setting cpu: 43
+Setting cpu: 44
+Setting cpu: 45
+Setting cpu: 46
+Setting cpu: 47
+Setting cpu: 48
+Setting cpu: 49
+Setting cpu: 50
+Setting cpu: 51
+Setting cpu: 52
+Setting cpu: 53
+Setting cpu: 54
+Setting cpu: 55
+Setting cpu: 56
+Setting cpu: 57
+Setting cpu: 58
+Setting cpu: 59
+Setting cpu: 60
+Setting cpu: 61
+Setting cpu: 62
+Setting cpu: 63
+Setting cpu: 64
+Setting cpu: 65
+Setting cpu: 66
+Setting cpu: 67
+Setting cpu: 68
+Setting cpu: 69
+Setting cpu: 70
+Setting cpu: 71
+Setting cpu: 72
+Setting cpu: 73
+Setting cpu: 74
+Setting cpu: 75
+Setting cpu: 76
+Setting cpu: 77
+Setting cpu: 78
+Setting cpu: 79
+Setting cpu: 80
+Setting cpu: 81
+Setting cpu: 82
+Setting cpu: 83
+Setting cpu: 84
+Setting cpu: 85
+Setting cpu: 86
+Setting cpu: 87
+Setting cpu: 88
+Setting cpu: 89
+Setting cpu: 90
+Setting cpu: 91
+Setting cpu: 92
+Setting cpu: 93
+Setting cpu: 94
+Setting cpu: 95
+cpupower governor is powersave
+turbo is enabled successfully.
+Set user specific frequency: 1200000KHZ
+Setting cpu: 0
+Setting cpu: 1
+Setting cpu: 2
+Setting cpu: 3
+Setting cpu: 4
+Setting cpu: 5
+Setting cpu: 6
+Setting cpu: 7
+Setting cpu: 8
+Setting cpu: 9
+Setting cpu: 10
+Setting cpu: 11
+Setting cpu: 12
+Setting cpu: 13
+Setting cpu: 14
+Setting cpu: 15
+Setting cpu: 16
+Setting cpu: 17
+Setting cpu: 18
+Setting cpu: 19
+Setting cpu: 20
+Setting cpu: 21
+Setting cpu: 22
+Setting cpu: 23
+Setting cpu: 24
+Setting cpu: 25
+Setting cpu: 26
+Setting cpu: 27
+Setting cpu: 28
+Setting cpu: 29
+Setting cpu: 30
+Setting cpu: 31
+Setting cpu: 32
+Setting cpu: 33
+Setting cpu: 34
+Setting cpu: 35
+Setting cpu: 36
+Setting cpu: 37
+Setting cpu: 38
+Setting cpu: 39
+Setting cpu: 40
+Setting cpu: 41
+Setting cpu: 42
+Setting cpu: 43
+Setting cpu: 44
+Setting cpu: 45
+Setting cpu: 46
+Setting cpu: 47
+Setting cpu: 48
+Setting cpu: 49
+Setting cpu: 50
+Setting cpu: 51
+Setting cpu: 52
+Setting cpu: 53
+Setting cpu: 54
+Setting cpu: 55
+Setting cpu: 56
+Setting cpu: 57
+Setting cpu: 58
+Setting cpu: 59
+Setting cpu: 60
+Setting cpu: 61
+Setting cpu: 62
+Setting cpu: 63
+Setting cpu: 64
+Setting cpu: 65
+Setting cpu: 66
+Setting cpu: 67
+Setting cpu: 68
+Setting cpu: 69
+Setting cpu: 70
+Setting cpu: 71
+Setting cpu: 72
+Setting cpu: 73
+Setting cpu: 74
+Setting cpu: 75
+Setting cpu: 76
+Setting cpu: 77
+Setting cpu: 78
+Setting cpu: 79
+Setting cpu: 80
+Setting cpu: 81
+Setting cpu: 82
+Setting cpu: 83
+Setting cpu: 84
+Setting cpu: 85
+Setting cpu: 86
+Setting cpu: 87
+Setting cpu: 88
+Setting cpu: 89
+Setting cpu: 90
+Setting cpu: 91
+Setting cpu: 92
+Setting cpu: 93
+Setting cpu: 94
+Setting cpu: 95
+Setting cpu: 0
+Setting cpu: 1
+Setting cpu: 2
+Setting cpu: 3
+Setting cpu: 4
+Setting cpu: 5
+Setting cpu: 6
+Setting cpu: 7
+Setting cpu: 8
+Setting cpu: 9
+Setting cpu: 10
+Setting cpu: 11
+Setting cpu: 12
+Setting cpu: 13
+Setting cpu: 14
+Setting cpu: 15
+Setting cpu: 16
+Setting cpu: 17
+Setting cpu: 18
+Setting cpu: 19
+Setting cpu: 20
+Setting cpu: 21
+Setting cpu: 22
+Setting cpu: 23
+Setting cpu: 24
+Setting cpu: 25
+Setting cpu: 26
+Setting cpu: 27
+Setting cpu: 28
+Setting cpu: 29
+Setting cpu: 30
+Setting cpu: 31
+Setting cpu: 32
+Setting cpu: 33
+Setting cpu: 34
+Setting cpu: 35
+Setting cpu: 36
+Setting cpu: 37
+Setting cpu: 38
+Setting cpu: 39
+Setting cpu: 40
+Setting cpu: 41
+Setting cpu: 42
+Setting cpu: 43
+Setting cpu: 44
+Setting cpu: 45
+Setting cpu: 46
+Setting cpu: 47
+Setting cpu: 48
+Setting cpu: 49
+Setting cpu: 50
+Setting cpu: 51
+Setting cpu: 52
+Setting cpu: 53
+Setting cpu: 54
+Setting cpu: 55
+Setting cpu: 56
+Setting cpu: 57
+Setting cpu: 58
+Setting cpu: 59
+Setting cpu: 60
+Setting cpu: 61
+Setting cpu: 62
+Setting cpu: 63
+Setting cpu: 64
+Setting cpu: 65
+Setting cpu: 66
+Setting cpu: 67
+Setting cpu: 68
+Setting cpu: 69
+Setting cpu: 70
+Setting cpu: 71
+Setting cpu: 72
+Setting cpu: 73
+Setting cpu: 74
+Setting cpu: 75
+Setting cpu: 76
+Setting cpu: 77
+Setting cpu: 78
+Setting cpu: 79
+Setting cpu: 80
+Setting cpu: 81
+Setting cpu: 82
+Setting cpu: 83
+Setting cpu: 84
+Setting cpu: 85
+Setting cpu: 86
+Setting cpu: 87
+Setting cpu: 88
+Setting cpu: 89
+Setting cpu: 90
+Setting cpu: 91
+Setting cpu: 92
+Setting cpu: 93
+Setting cpu: 94
+Setting cpu: 95
+analyzing CPU 0:
+  driver: intel_pstate
+  CPUs which run at the same hardware frequency: 0
+  CPUs which need to have their frequency coordinated by software: 0
+  maximum transition latency:  Cannot determine or is not supported.
+  hardware limits: 1000 MHz - 3.70 GHz
+  available cpufreq governors: performance powersave
+  current policy: frequency should be within 1.20 GHz and 1.20 GHz.
+                  The governor "powersave" may decide which speed to use
+                  within this range.
+  current CPU frequency: 1.80 GHz (asserted by call to hardware)
+  boost state support:
+    Supported: yes
+    Active: yes
+
+./test1.sh: line 7: /script/test_at.sh: No such file or directory
+./test1.sh: line 9: /script/test_sl.sh: No such file or directory
+./test1.sh: line 11: /script/test_mt.sh: No such file or directory
+./test1.sh: line 13: /script/test_rw.sh: No such file or directory
+../micro-benchmark/tools/powerManagement.sh: line 3: ./common_check.inc: No such file or directory
+../micro-benchmark/tools/powerManagement.sh: line 51: rdmsr: command not found
+../micro-benchmark/tools/powerManagement.sh: line 114: function_check: command not found
+../micro-benchmark/tools/powerManagement.sh: line 115: function_reset: command not found
+../micro-benchmark/tools/powerManagement.sh: line 121: disable_C1E_C3_C6: command not found
+Setting cpu: 0
+Setting cpu: 1
+Setting cpu: 2
+Setting cpu: 3
+Setting cpu: 4
+Setting cpu: 5
+Setting cpu: 6
+Setting cpu: 7
+Setting cpu: 8
+Setting cpu: 9
+Setting cpu: 10
+Setting cpu: 11
+Setting cpu: 12
+Setting cpu: 13
+Setting cpu: 14
+Setting cpu: 15
+Setting cpu: 16
+Setting cpu: 17
+Setting cpu: 18
+Setting cpu: 19
+Setting cpu: 20
+Setting cpu: 21
+Setting cpu: 22
+Setting cpu: 23
+Setting cpu: 24
+Setting cpu: 25
+Setting cpu: 26
+Setting cpu: 27
+Setting cpu: 28
+Setting cpu: 29
+Setting cpu: 30
+Setting cpu: 31
+Setting cpu: 32
+Setting cpu: 33
+Setting cpu: 34
+Setting cpu: 35
+Setting cpu: 36
+Setting cpu: 37
+Setting cpu: 38
+Setting cpu: 39
+Setting cpu: 40
+Setting cpu: 41
+Setting cpu: 42
+Setting cpu: 43
+Setting cpu: 44
+Setting cpu: 45
+Setting cpu: 46
+Setting cpu: 47
+Setting cpu: 48
+Setting cpu: 49
+Setting cpu: 50
+Setting cpu: 51
+Setting cpu: 52
+Setting cpu: 53
+Setting cpu: 54
+Setting cpu: 55
+Setting cpu: 56
+Setting cpu: 57
+Setting cpu: 58
+Setting cpu: 59
+Setting cpu: 60
+Setting cpu: 61
+Setting cpu: 62
+Setting cpu: 63
+Setting cpu: 64
+Setting cpu: 65
+Setting cpu: 66
+Setting cpu: 67
+Setting cpu: 68
+Setting cpu: 69
+Setting cpu: 70
+Setting cpu: 71
+Setting cpu: 72
+Setting cpu: 73
+Setting cpu: 74
+Setting cpu: 75
+Setting cpu: 76
+Setting cpu: 77
+Setting cpu: 78
+Setting cpu: 79
+Setting cpu: 80
+Setting cpu: 81
+Setting cpu: 82
+Setting cpu: 83
+Setting cpu: 84
+Setting cpu: 85
+Setting cpu: 86
+Setting cpu: 87
+Setting cpu: 88
+Setting cpu: 89
+Setting cpu: 90
+Setting cpu: 91
+Setting cpu: 92
+Setting cpu: 93
+Setting cpu: 94
+Setting cpu: 95
+cpupower governor is powersave
+turbo is enabled successfully.
+Set user specific frequency: 1300000KHZ
+Setting cpu: 0
+Setting cpu: 1
+Setting cpu: 2
+Setting cpu: 3
+Setting cpu: 4
+Setting cpu: 5
+Setting cpu: 6
+Setting cpu: 7
+Setting cpu: 8
+Setting cpu: 9
+Setting cpu: 10
+Setting cpu: 11
+Setting cpu: 12
+Setting cpu: 13
+Setting cpu: 14
+Setting cpu: 15
+Setting cpu: 16
+Setting cpu: 17
+Setting cpu: 18
+Setting cpu: 19
+Setting cpu: 20
+Setting cpu: 21
+Setting cpu: 22
+Setting cpu: 23
+Setting cpu: 24
+Setting cpu: 25
+Setting cpu: 26
+Setting cpu: 27
+Setting cpu: 28
+Setting cpu: 29
+Setting cpu: 30
+Setting cpu: 31
+Setting cpu: 32
+Setting cpu: 33
+Setting cpu: 34
+Setting cpu: 35
+Setting cpu: 36
+Setting cpu: 37
+Setting cpu: 38
+Setting cpu: 39
+Setting cpu: 40
+Setting cpu: 41
+Setting cpu: 42
+Setting cpu: 43
+Setting cpu: 44
+Setting cpu: 45
+Setting cpu: 46
+Setting cpu: 47
+Setting cpu: 48
+Setting cpu: 49
+Setting cpu: 50
+Setting cpu: 51
+Setting cpu: 52
+Setting cpu: 53
+Setting cpu: 54
+Setting cpu: 55
+Setting cpu: 56
+Setting cpu: 57
+Setting cpu: 58
+Setting cpu: 59
+Setting cpu: 60
+Setting cpu: 61
+Setting cpu: 62
+Setting cpu: 63
+Setting cpu: 64
+Setting cpu: 65
+Setting cpu: 66
+Setting cpu: 67
+Setting cpu: 68
+Setting cpu: 69
+Setting cpu: 70
+Setting cpu: 71
+Setting cpu: 72
+Setting cpu: 73
+Setting cpu: 74
+Setting cpu: 75
+Setting cpu: 76
+Setting cpu: 77
+Setting cpu: 78
+Setting cpu: 79
+Setting cpu: 80
+Setting cpu: 81
+Setting cpu: 82
+Setting cpu: 83
+Setting cpu: 84
+Setting cpu: 85
+Setting cpu: 86
+Setting cpu: 87
+Setting cpu: 88
+Setting cpu: 89
+Setting cpu: 90
+Setting cpu: 91
+Setting cpu: 92
+Setting cpu: 93
+Setting cpu: 94
+Setting cpu: 95
+Setting cpu: 0
+Setting cpu: 1
+Setting cpu: 2
+Setting cpu: 3
+Setting cpu: 4
+Setting cpu: 5
+Setting cpu: 6
+Setting cpu: 7
+Setting cpu: 8
+Setting cpu: 9
+Setting cpu: 10
+Setting cpu: 11
+Setting cpu: 12
+Setting cpu: 13
+Setting cpu: 14
+Setting cpu: 15
+Setting cpu: 16
+Setting cpu: 17
+Setting cpu: 18
+Setting cpu: 19
+Setting cpu: 20
+Setting cpu: 21
+Setting cpu: 22
+Setting cpu: 23
+Setting cpu: 24
+Setting cpu: 25
+Setting cpu: 26
+Setting cpu: 27
+Setting cpu: 28
+Setting cpu: 29
+Setting cpu: 30
+Setting cpu: 31
+Setting cpu: 32
+Setting cpu: 33
+Setting cpu: 34
+Setting cpu: 35
+Setting cpu: 36
+Setting cpu: 37
+Setting cpu: 38
+Setting cpu: 39
+Setting cpu: 40
+Setting cpu: 41
+Setting cpu: 42
+Setting cpu: 43
+Setting cpu: 44
+Setting cpu: 45
+Setting cpu: 46
+Setting cpu: 47
+Setting cpu: 48
+Setting cpu: 49
+Setting cpu: 50
+Setting cpu: 51
+Setting cpu: 52
+Setting cpu: 53
+Setting cpu: 54
+Setting cpu: 55
+Setting cpu: 56
+Setting cpu: 57
+Setting cpu: 58
+Setting cpu: 59
+Setting cpu: 60
+Setting cpu: 61
+Setting cpu: 62
+Setting cpu: 63
+Setting cpu: 64
+Setting cpu: 65
+Setting cpu: 66
+Setting cpu: 67
+Setting cpu: 68
+Setting cpu: 69
+Setting cpu: 70
+Setting cpu: 71
+Setting cpu: 72
+Setting cpu: 73
+Setting cpu: 74
+Setting cpu: 75
+Setting cpu: 76
+Setting cpu: 77
+Setting cpu: 78
+Setting cpu: 79
+Setting cpu: 80
+Setting cpu: 81
+Setting cpu: 82
+Setting cpu: 83
+Setting cpu: 84
+Setting cpu: 85
+Setting cpu: 86
+Setting cpu: 87
+Setting cpu: 88
+Setting cpu: 89
+Setting cpu: 90
+Setting cpu: 91
+Setting cpu: 92
+Setting cpu: 93
+Setting cpu: 94
+Setting cpu: 95
+analyzing CPU 0:
+  driver: intel_pstate
+  CPUs which run at the same hardware frequency: 0
+  CPUs which need to have their frequency coordinated by software: 0
+  maximum transition latency:  Cannot determine or is not supported.
+  hardware limits: 1000 MHz - 3.70 GHz
+  available cpufreq governors: performance powersave
+  current policy: frequency should be within 1.30 GHz and 1.30 GHz.
+                  The governor "powersave" may decide which speed to use
+                  within this range.
+  current CPU frequency: 1.80 GHz (asserted by call to hardware)
+  boost state support:
+    Supported: yes
+    Active: yes
+
+./test1.sh: line 7: /script/test_at.sh: No such file or directory
+./test1.sh: line 9: /script/test_sl.sh: No such file or directory
+./test1.sh: line 11: /script/test_mt.sh: No such file or directory

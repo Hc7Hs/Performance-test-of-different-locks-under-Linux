@@ -21,3 +21,24 @@ The following is a detailed description of the OPTION and PARM for this test pro
 -f		float mode 	provide a mode to not set the binding-process, core or socket.
 
 -h		help		Open the help document
+
+#Linux下不同锁的性能测试（lock-perf-benchmark）
+##用法：benchmark [OPTION] ... [PARM] ...测试多线程CPU的极限性能。提供多种模式：绑定（不绑定）套接字，绑定（不绑定）核心，绑定（不绑定）超线程；您可以设置参数，例如测试时间，延迟，线程数。
+
+##以下是此测试程序的OPTION和PARM的详细说明：
+
+-s socket PARM的值为0或1，0表示测试未绑定到Socket，1表示绑定Socket的测试；
+
+-c core PARM的值为0或1，0表示测试未绑定到Core，1表示绑定Core的测试；
+
+-p处理器PARM的值为0或1，0表示测试未绑定到处理器，而1表示绑定处理器的测试；
+
+-t thread PARM的值是一个正整数，这是您需要测试的线程数；
+
+-e excute_duration PARM的值是一个正整数，单位是Second，它是测试程序运行的时间；
+
+-d Lock_delay PARM的值是以秒为单位的正整数，这是测试程序执行的时间延迟。
+
+-f 浮动模式提供一种不设置绑定进程，核心或socket的模式。
+
+-h help打开帮助文档

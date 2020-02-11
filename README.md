@@ -1,8 +1,6 @@
-
-#cd script
+#Performance test of different locks under Linux(lock-perf-benchmark)
  
- 
-Usage£ºbenchmark [OPTION]... [PARM]...
+Usage: benchmark [OPTION]... [PARM]...
 Test the extreme performance of multi-threaded CPUs. Provide multiple modes: bind (not bind) Socket, bind (not bind) Core, bind (not bind) hyperthread; you can set parameters such as test time, delay, number of threads.
 
 
